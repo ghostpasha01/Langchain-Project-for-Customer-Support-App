@@ -1,0 +1,10 @@
+numexpr==2.8.7
+langchain==0.0.336
+openai
+openai-whisper==20231106
+sentence-transformers==2.2.2
+unstructured==0.10.30
+chromadb==0.4.17
+streamlit==1.29.0
+graphviz==0.20.1
+librosa==0.10.2
